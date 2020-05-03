@@ -1,0 +1,7 @@
+#include<stido.h>
+#include<conio.h>
+void main()
+{
+printf("Hello world");
+return 0;
+}
